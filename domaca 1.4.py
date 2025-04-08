@@ -1,3 +1,5 @@
+from PIL import image
+
 fr= open("ciernobiely_obrazok_1.txt', 'r', encoding="UTF-8")
 fw= open("ciernobiely_obrazok_1._vystup.txt', 'w', encoding="UTF-8")
 
